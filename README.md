@@ -3,7 +3,7 @@
 ## About Me 🚀
 
 - CS student at Georgia Tech
-- Building @sidelineai
+- Building Sideline AI
 - Incoming SDE Intern at Amazon
 - Research Interest: Building world models with computer vision and natural language
 
