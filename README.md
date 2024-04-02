@@ -1,16 +1,21 @@
-### Ayush Pai
+# Welcome to My GitHub! 👋
 
-<!--
-**ayushpai/ayushpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ayush Pai, a Computer Science student at Georgia Tech, builder of Sideline AI, and an incoming SDE Intern at Amazon. Check out my work and thoughts here!
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- CS student at Georgia Tech
+- Building Sideline AI
+- Incoming SDE Intern at Amazon
+- Research Interest: Building world models with computer vision and natural language
+- Website: [ayush.cc](https://ayush.cc)
+
+## Connect With Me 🌟
+
+Feel free to reach out for collaborations or just to chat about tech:
+
+- **Website:** [ayush.cc](https://ayush.cc)
+- **LinkedIn:** [[linkedin.com/in/ayushpai](https://www.linkedin.com/in/ayushpai/)]
+- **Email:** ayushpai (at) gatech [dot] edu
+
+Thanks for visiting!
