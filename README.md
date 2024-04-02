@@ -1,6 +1,4 @@
-# Welcome to My GitHub! 👋
-
-I'm Ayush Pai, a Computer Science student at Georgia Tech, builder of Sideline AI, and an incoming SDE Intern at Amazon. Check out my work and thoughts here!
+# Ayush Pai
 
 ## About Me 🚀
 
