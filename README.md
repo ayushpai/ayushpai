@@ -3,10 +3,10 @@
 ## About Me 🚀
 
 - CS student at Georgia Tech
-- Building Sideline AI
+- Building @Sideline
 - Incoming SDE Intern at Amazon
 - Research Interest: Building world models with computer vision and natural language
-- Website: [ayush.cc](https://ayush.cc)
+
 
 ## Connect With Me 🌟
 
