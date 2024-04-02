@@ -13,7 +13,7 @@
 Feel free to reach out for collaborations or just to chat about tech:
 
 - **Website:** [ayush.cc](https://ayush.cc)
-- **LinkedIn:** [[linkedin.com/in/ayushpai](https://www.linkedin.com/in/ayushpai/)]
+- **LinkedIn:** [linkedin.com/in/ayushpai](https://www.linkedin.com/in/ayushpai/)
 - **Email:** ayushpai (at) gatech [dot] edu
 
 Thanks for visiting!
