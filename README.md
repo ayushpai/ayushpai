@@ -1,16 +1,13 @@
 # Ayush Pai
 
-## About Me 🚀
+## About Me 
 
-- CS student at Georgia Tech
-- Building Sideline AI
-- Incoming SDE Intern at Amazon
-- Research Interest: Building world models with computer vision and natural language
+- CS @ Georgia Tech
+- Building Sideline
+- Incoming @ Amazon
 
 
-## Connect With Me 🌟
-
-Feel free to reach out for collaborations or just to chat about tech:
+## Connect With Me 
 
 - **Website:** [ayush.cc](https://ayush.cc)
 - **LinkedIn:** [linkedin.com/in/ayushpai](https://www.linkedin.com/in/ayushpai/)
