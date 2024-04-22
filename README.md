@@ -3,7 +3,7 @@
 ## About Me 
 
 - CS @ Georgia Tech
-- Building [Sideline](https://ayush.team)
+- Building [Sideline](https://sideline.team)
 - Incoming @ Amazon
 
 
