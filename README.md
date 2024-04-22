@@ -11,5 +11,5 @@
 
 - **Website:** [ayush.cc](https://ayush.cc)
 - **LinkedIn:** [linkedin.com/in/ayushpai](https://www.linkedin.com/in/ayushpai/)
-- **Email:** ayushpai (at) gatech [dot] edu
+- **Email:** ayushpai [at] gatech [dot] edu
 
