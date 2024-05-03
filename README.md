@@ -4,7 +4,7 @@
 
 - CS @ Georgia Tech
 - Building [Sideline](https://sideline.team)
-- Incoming @ Amazon
+- SWE Intern @ Amazon
 
 
 ## Connect With Me 
